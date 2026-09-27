@@ -1,0 +1,2 @@
+# PrivacidadeChess
+Polictica de privacidade
